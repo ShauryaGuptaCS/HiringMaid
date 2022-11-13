@@ -1,2 +1,2 @@
 # HiringMaid
-Hiring Maid
+Mini Project
